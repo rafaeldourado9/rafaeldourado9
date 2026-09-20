@@ -6,9 +6,10 @@
 
 <br/>
 
+[![Site](https://img.shields.io/badge/rafaeldourado.tech-%230a0a0a.svg?style=for-the-badge&logo=googlechrome&logoColor=6d28d9)](https://rafaeldourado.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d1f2d.svg?style=for-the-badge&logo=linkedin&logoColor=4a9eff)](https://linkedin.com/in/rafael-dourado-dev)
-[![Email](https://img.shields.io/badge/Gmail-%230a0a0a.svg?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafaeldouradoc7@gmail.com)
-[![Genesis](https://img.shields.io/badge/Genesis_Framework-%230a0a0a.svg?style=for-the-badge&logo=github&logoColor=4a9eff)](https://github.com/rafaeldourado9/genesis)
+[![Email](https://img.shields.io/badge/Gmail-%230a0a0a.svg?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rafaeldourado.tech@gmail.com)
+[![Genesis](https://img.shields.io/badge/Genesis_Framework-%230a0a0a.svg?style=for-the-badge&logo=github&logoColor=4a9eff)](https://github.com/rafaeldourado9/genesis-skill)
 
 </div>
 
@@ -49,8 +50,8 @@ class RafaelDourado:
 
 ## 🚀 Featured Project
 
-<a href="https://github.com/rafaeldourado9/genesis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaeldourado9&repo=genesis&theme=dark&bg_color=0d1117&border_color=1f6feb&title_color=4a9eff&text_color=c9d1d9&icon_color=4a9eff" />
+<a href="https://github.com/rafaeldourado9/genesis-skill">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rafaeldourado9&repo=genesis-skill&theme=dark&bg_color=0d1117&border_color=1f6feb&title_color=4a9eff&text_color=c9d1d9&icon_color=4a9eff" />
 </a>
 
 > **Genesis** — Build production-ready software from a description.
@@ -127,6 +128,29 @@ class RafaelDourado:
 
 ---
 
+---
+
+## 💼 Trabalho comigo
+
+Construo **sistema, aplicativo e site sob medida para empresas**, do desenho à entrega no ar.
+Mais de 30 projetos entregues desde 2019, com o código e o repositório no nome do cliente desde o primeiro commit.
+
+**Sistemas em produção, com as telas de cada um publicadas:**
+
+| Setor | O que o sistema faz |
+| --- | --- |
+| [Restaurante e delivery](https://rafaeldourado.tech/sistema-para-restaurante) | balcão, mesa, tela de cozinha, entrega, ficha técnica e fiscal |
+| [Assistência técnica](https://rafaeldourado.tech/sistema-para-assistencia-tecnica) | ordem de serviço, equipe em campo, contrato, comissão |
+| [Energia solar](https://rafaeldourado.tech/software-para-energia-solar) | orçamento com dimensionamento, estoque, comissão, financeiro |
+| [Segurança eletrônica](https://rafaeldourado.tech/sistema-para-empresa-de-seguranca) | CFTV com detecção por IA, watchlist, LGPD |
+| [Setor público](https://rafaeldourado.tech/sistema-para-prefeitura) | protocolo do cidadão, prazo por secretaria, painel do gabinete |
+| [Atendimento e vendas](https://rafaeldourado.tech/crm-com-whatsapp) | CRM ligado ao WhatsApp, com agente de IA |
+
+📍 Atendimento remoto para todo o Brasil · orçamento em 1 dia útil
+👉 **[rafaeldourado.tech](https://rafaeldourado.tech)** · [pedir orçamento](https://rafaeldourado.tech/briefing) · [ver o portfólio](https://rafaeldourado.tech/projetos)
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1f10,40:061420,100:0a0a0a&height=100&section=footer" width="100%"/>
@@ -135,6 +159,6 @@ class RafaelDourado:
 
 <br/>
 
-`rafaeldouradoc7@gmail.com` &nbsp;·&nbsp; `Dourados, MS — Brasil`
+**[rafaeldourado.tech](https://rafaeldourado.tech)** &nbsp;·&nbsp; `rafaeldourado.tech@gmail.com` &nbsp;·&nbsp; `Mato Grosso do Sul — Brasil`
 
 </div>
